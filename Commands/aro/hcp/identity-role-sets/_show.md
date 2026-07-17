@@ -1,0 +1,9 @@
+# [Command] _aro hcp identity-role-sets show_
+
+Get a HcpOperatorIdentityRoleSet
+
+## Versions
+
+### [2025-12-23-preview](/Resources/mgmt-plane/L3N1YnNjcmlwdGlvbnMve30vcHJvdmlkZXJzL21pY3Jvc29mdC5yZWRoYXRvcGVuc2hpZnQvbG9jYXRpb25zL3t9L2hjcG9wZXJhdG9yaWRlbnRpdHlyb2xlc2V0cy97fQ==/2025-12-23-preview.xml) **Stable**
+
+<!-- mgmt-plane /subscriptions/{}/providers/microsoft.redhatopenshift/locations/{}/hcpoperatoridentityrolesets/{} 2025-12-23-preview -->
